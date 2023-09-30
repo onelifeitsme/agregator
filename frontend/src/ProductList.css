@@ -1,0 +1,6 @@
+/* ProductList.css */
+.product-list {
+  display: flex;
+  flex-wrap: wrap; /* Перенос строк при нехватке места */
+  justify-content: space-between; /* Равномерное распределение карточек */
+}

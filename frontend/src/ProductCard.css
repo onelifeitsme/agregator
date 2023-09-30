@@ -1,0 +1,26 @@
+/* ProductCard.css */
+.product-card {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin: 10px;
+  max-width: 200px;
+  text-align: center;
+}
+
+.product-card img {
+  max-width: 100%;
+}
+
+.product-card h3 {
+  font-size: 1.2rem;
+  margin: 10px 0;
+}
+
+.product-card p {
+  font-size: 1rem;
+}
+
+.product-card span {
+  font-size: 1.2rem;
+  color: #007bff; /* Цвет цены */
+}
